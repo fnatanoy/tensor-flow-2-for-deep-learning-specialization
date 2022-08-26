@@ -1,1 +1,1 @@
-# tensor-flow-2-for-deep-learning-specialization
+# TENSOR FLOW 2 FOR DEEP LEARNING SPECIALIZATION
